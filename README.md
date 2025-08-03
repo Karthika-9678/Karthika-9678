@@ -23,12 +23,6 @@ I am passionate about bridging the gap between hardware and software. Whether it
 
 ---
 
-### 🌱 Currently Learning
-- Emerging tech in electronics and programming
-- Latest web and embedded systems trends
-
----
-
 ### 📫 How to reach me
 - GitHub: [Karthika-9678](https://github.com/Karthika-9678)
 - LinkedIn: www.linkedin.com/in/karthika-s-259455313
